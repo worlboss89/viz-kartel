@@ -1,11 +1,13 @@
 {
   "name": "viz-kartel",
   "version": "0.1.0",
+  "homepage": "https://pr0x1m4.github.io/viz-kartel",
   "private": true,
   "devDependencies": {
     "react-scripts": "1.0.12"
   },
   "dependencies": {
+    "gh-pages": "^1.0.0",
     "nivo": "^0.22.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
@@ -16,6 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   }
 }
