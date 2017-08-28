@@ -1,6 +1,6 @@
 # viz-kartel
 
-Vybz Kartel, dancehall icon has been incarcerated since 2011, despite this, the artist has released a number of dancehall singles and albums.
+[Vybz Kartel](https://en.wikipedia.org/wiki/Vybz_Kartel), dancehall icon has been incarcerated since 2011, despite this, the artist has released a number of dancehall singles and albums.
 
 This is my attempt at visualising those songs.
 
