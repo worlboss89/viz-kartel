@@ -59,13 +59,17 @@ class App extends Component {
             <CenterBox width={1 / 6}>
               <Flex direction="row">
                 <Box width={1 / 3}>
-                  <StyledLink href="/">viz-kartel</StyledLink>
+                  <StyledLink href="https://pr0x1m4.github.io/viz-kartel/">
+                    viz-kartel
+                  </StyledLink>
                 </Box>
                 <Box width={1 / 3}>
                   <StyledLink href="#why">why</StyledLink>
                 </Box>
                 <Box width={1 / 3}>
-                  <StyledLink href="/gits">github</StyledLink>
+                  <StyledLink href="https://github.com/Pr0x1m4/viz-kartel">
+                    github
+                  </StyledLink>
                 </Box>
               </Flex>
             </CenterBox>
