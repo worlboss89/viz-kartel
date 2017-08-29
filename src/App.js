@@ -38,6 +38,7 @@ const Rhombus = styled.div`
 
 const StyledLink = styled.a`
   color: white;
+  font-weight: 600;
   text-decoration: none;
   
 `;
